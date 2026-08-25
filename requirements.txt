@@ -1,0 +1,28 @@
+# Datajam-DED — dependencias
+#
+#   py -3 -m pip install -r requirements.txt
+#   py -3 -m playwright install chromium     # solo para los scrappers del Sisbén
+
+# --- Análisis y datos ---------------------------------------------------
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# --- Lectura de Excel / ODS ---------------------------------------------
+openpyxl>=3.1        # .xlsx (datos_por_localidad, proyecciones UPL)
+odfpy>=1.4           # .ods  (proyecciones de población SDP)
+
+# --- Gráficos -----------------------------------------------------------
+matplotlib>=3.7
+
+# --- Geodatos y mapas ---------------------------------------------------
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+folium>=0.15
+branca>=0.7
+
+# --- Descargas y scrapping ----------------------------------------------
+requests>=2.31
+playwright>=1.40     # visor del Sisbén (notebooks/poblacion/scrappers/)
