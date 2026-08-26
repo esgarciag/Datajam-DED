@@ -239,7 +239,7 @@ MAPAS
 |---|---|---|---|
 | Mapa Por Barrios Bogotá | [data/processed/mapas/MapaPorBarriosBogota.json](data/processed/mapas/MapaPorBarriosBogota.json) | [Link](https://datosabiertos.bogota.gov.co/dataset/sector-catastral) | Sector catastral enriquecido con `clave`, `barrio_norm` y `localidad_norm`. Es la geometría que `mapa.py` cruza con la población del Sisbén |
 | Mapa Por Localidad Bogotá | [data/raw/mapas/MapaPorLocalidadBogota.json](data/raw/mapas/MapaPorLocalidadBogota.json) | [Link](https://datosabiertos.bogota.gov.co/dataset/localidad-bogota-d-c) | Límites por localidad, para el shapeMap del informe de Power BI |
-
+| Mapa Por UPL Bogotá |[data/raw/mapas/MapaPorUPLBogota.json] | [Link](https://datosabiertos.bogota.gov.co/dataset/upl_mv_intermedia_precisada) | Límites por UPL, usado para cruzar con las Proyecciones Poblacionales y construir el shapeMap por UPL |
 # Hallazgos
 
 # Contratacion
