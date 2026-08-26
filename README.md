@@ -248,6 +248,8 @@ MAPAS
 
 # Poblacion y Barrios
 
+Luego de realizar un cruce entre los tres bases de datos principales suponiendo que las proporciones de actividad fisica por localidad se distribuyen uniformemente en los barrios, siguiendo la siguiente formula se observa que se debe priorizar los siguientes barrios para la poblacion adulta  la poblacion mayor
+
 # Power BI
 
 # Conclusiones
