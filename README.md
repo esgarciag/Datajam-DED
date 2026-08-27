@@ -323,4 +323,11 @@ Luego de realizar un cruce entre los tres bases de datos principales suponiendo 
 
 # Power BI
 
+
+Insertar imgenes y explicaicon del doc
+
+# Calculadora
+
+Explicacion uso e insertar imagen
+Explicar la forma de modelar y como nos dimos cuenta de que no tiene sentido alguno clases constantes 
 # Conclusiones
