@@ -244,6 +244,76 @@ MAPAS
 
 # Contratacion
 
+Dos patrones que se repiten todos los años y se refuerzan entre sí: **se
+contrata tarde** y **sobra plata sin girar**.
+
+## Se contrata tarde
+
+Alcance: los dos proyectos de actividad física del IDRD (8154 y 8155), por mes
+de inicio del contrato.
+
+| Año | Valor que arranca en Q1 | Valor que arranca en Q4 | Mes pico | Concentra |
+|---|---|---|---|---|
+| 2024 | 0,2 % | 54,3 % | Noviembre | 49,0 % del año |
+| 2025 | 26,6 % | 33,4 % | Octubre | 33,2 % del año |
+
+En 2024, la mitad del dinero contratado empezó a ejecutarse en noviembre o
+después, y **apenas 2 de cada 1.000 pesos arrancaron en el primer trimestre**.
+Un programa de actividad física que empieza en noviembre no alcanza a producir
+el efecto poblacional que promete su meta anual: la plata se gasta, el servicio
+no se presta.
+
+No es un problema de un solo año ni exclusivo de actividad física, pero sí se
+agrava ahí. Comparando el mismo indicador contra dos líneas de referencia:
+
+| % del valor que arranca en Q4 | 2024 | 2025 |
+|---|---|---|
+| Proyectos de actividad física | **54,3 %** | 33,4 % |
+| IDRD completo | 37,6 % | 35,7 % |
+| Todo el Distrito | 31,3 % | 15,8 % |
+
+El Distrito en conjunto mejoró fuerte de 2024 a 2025 (31,3 % → 15,8 %); el IDRD
+se quedó donde estaba.
+
+## Y sobra plata
+
+Alcance: IDRD completo, cierre de cada año.
+
+| Año | Vigente | Comprometido | Girado | Sin girar |
+|---|---|---|---|---|
+| 2024 | $396.683 mm | 96,5 % | 64,6 % | **$140.544 mm** |
+| 2025 | $546.189 mm | 91,6 % | 63,5 % | **$199.402 mm** |
+
+Se logra **contratar** casi todo, pero solo sale por caja unos dos tercios. De
+cada peso comprometido se pagó el 66,9 % en 2024 y el 69,3 % en 2025. En dos
+años quedaron sin girar unos **$340.000 millones**.
+
+Y lo que se gira, se gira tarde. Si el gasto se repartiera parejo, cada mes
+pesaría 8,3 % del año y cada trimestre 25 %:
+
+| IDRD | 2024 | 2025 | Referencia neutra |
+|---|---|---|---|
+| Giros de diciembre | 24,3 % | 20,3 % | 8,3 % |
+| Giros del último trimestre | 48,2 % | 49,4 % | 25 % |
+
+Diciembre pesa casi el triple de lo que le tocaría, y la mitad del año se ejecuta
+en los últimos tres meses.
+
+En los Fondos de Desarrollo Local la brecha es todavía mayor: comprometen el
+96,4 % (2024) y el 98,8 % (2025), pero giran el 50,3 % y el 56,1 %. Eso sí, sin
+el pico de diciembre del IDRD (9,8 % y 12,4 %, cerca de lo neutro).
+
+## Por qué importan juntos
+
+Los dos hechos son el mismo problema visto en dos momentos. Si el contrato se
+firma en noviembre, el giro no alcanza a ocurrir dentro del año: aparece como
+compromiso ejecutado en el papel y como caja sin salir en la práctica. El
+indicador que la entidad reporta —96 % comprometido— se ve bien; el servicio
+que la gente recibe corresponde al 64 % girado, y llega tarde.
+
+> Nota de lectura: 2026 va con corte a mayo, así que sus porcentajes no son
+> comparables con los años cerrados y no se incluyen arriba.
+
 # Salud
 
 # Poblacion y Barrios
