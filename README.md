@@ -400,3 +400,11 @@ Explicar variables propuestas
 Como nos dimos cuenta de que no tiene sentido alguno clases constantes si no mas bien clases esporadicas
 
 # Conclusiones y Recomendaciones
+
+Decir la importancia de tomar medidas para prevenir problemas y costos futuro
+Decir sobre contratacion como se deja siempre para fin de año pareciera que no se le da la importancia requerida las metas no se cumples etc
+La importancia de analizar los datos correctamente para saber donde priorizar y saber donde se necesita más
+
+Importancia de datos abiertos para poder hacer ejercicios como estos 
+
+Modelo del programa que funciona mejor con la calculadora que barrios priorizar exactamente
