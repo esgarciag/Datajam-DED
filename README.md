@@ -503,9 +503,9 @@ La magnitud de la carga económica atribuible al sedentarismo en Bogotá es una 
 
 El análisis de datos demuestra que no todos los barrios ni todas las localidades tienen la misma necesidad ni el mismo potencial de impacto. La combinación de alta concentración de población mayor, elevado sedentarismo y baja cobertura actual del programa identifica zonas específicas (como Tintala en Kennedy, Campo Verde en Bosa y Osorio III en Kennedy) donde la misma inversión genera un retorno en salud significativamente mayor que en zonas ya bien cubiertas. Sin un análisis territorial como este, el presupuesto se distribuye por inercia histórica y no por necesidad real.
 
-Finalmente, este ejercicio no habría sido posible sin datos abiertos. La disponibilidad de registros RIPS, proyecciones poblacionales del DANE y datos de actividad física de la Encuesta Multipropósito permitió construir un modelo económico robusto y verificable. Al mismo tiempo, las brechas encontradas muestran que aún hay un camino importante por recorrer para que los datos abiertos sean verdaderamente útiles para el análisis de política pública.
-
 La contratación de estos programas se concentra en el último trimestre del año, una práctica que comparte toda la administración distrital. Importa porque la actividad física solo produce beneficios en salud cuando es sostenida: un programa que arranca en noviembre entrega un ciclo corto, partido entre dos vigencias, y difícilmente alcanza a generar el hábito del que depende su propio efecto. Lo que se contrata tarde se ejecuta tarde, y lo que se ejecuta a medias no se convierte en salud.
+
+Finalmente, este ejercicio no habría sido posible sin datos abiertos. La disponibilidad de registros RIPS, proyecciones poblacionales del DANE y datos de actividad física de la Encuesta Multipropósito permitió construir un modelo económico robusto y verificable. Al mismo tiempo, las brechas encontradas muestran que aún hay un camino importante por recorrer para que los datos abiertos sean verdaderamente útiles para el análisis de política pública.
 
 ---
 
@@ -519,4 +519,4 @@ Focalizar la expansión en los barrios identificados por el priorizador territor
 
 Explorar un mecanismo formal de co-financiación entre el IDRD y las EPS con mayor presencia en las localidades priorizadas. 
 
-Publicar en el Portal de Datos Abiertos de Bogotá los datos operativos del programa de actividad física, condición de los contratos y estad[isticas de prevalencia y costos de enfermedades. Estos datos son los que más falta hacen para perfeccionar el modelo y para que ejercicios como este puedan hacerse con mayor precisión en el futuro.
+Publicar en el Portal de Datos Abiertos de Bogotá los datos operativos del programa de actividad física, condición de los contratos y estadisticas de prevalencia y costos de enfermedades. Estos datos son los que más falta hacen para perfeccionar el modelo y para que ejercicios como este puedan hacerse con mayor precisión en el futuro.
