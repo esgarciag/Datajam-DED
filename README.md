@@ -63,6 +63,8 @@ Datajam-DED/
 │
 └── docs/
     └── diccionario_datos.md    Qué significa cada columna de data/processed/
+    └── Costos_diabetes_e_hipertensión_Bogotá_adultos_mayores.pdf    Análisis económico en la población mayor
+    └── Costos_diabetes_e_hipertensión_Bogotá_población_adulta.pdf    Análisis económico en la población adulta
 ```
 
 Regla de oro sobre dónde escribe cada cosa:
@@ -252,6 +254,14 @@ MAPAS
 | Mapa Por Barrios Bogotá | [data/processed/mapas/MapaPorBarriosBogota.json](data/processed/mapas/MapaPorBarriosBogota.json) | [Link](https://datosabiertos.bogota.gov.co/dataset/sector-catastral) | Sector catastral enriquecido con `clave`, `barrio_norm` y `localidad_norm`. Es la geometría que `mapa.py` cruza con la población del Sisbén |
 | Mapa Por Localidad Bogotá | [data/raw/mapas/MapaPorLocalidadBogota.json](data/raw/mapas/MapaPorLocalidadBogota.json) | [Link](https://datosabiertos.bogota.gov.co/dataset/localidad-bogota-d-c) | Límites por localidad, para el shapeMap del informe de Power BI |
 | Mapa Por UPL Bogotá |[data/raw/mapas/MapaPorUPLBogota.json](data/raw/mapas/MapaPorUPLBogota.json) | [Link](https://datosabiertos.bogota.gov.co/dataset/upl_mv_intermedia_precisada) | Límites por UPL, usado para cruzar con las Proyecciones Poblacionales y construir el shapeMap por UPL |
+
+SALUD
+
+| Estudio/Entidad | Ubicación GitHub | Forma de Obtener | Descripción y Uso |
+|---|---|---|---|
+| National Institutes of Health | `docs/Costos_diabetes_e_hipertensión_Bogotá_adultos_mayores.pdf` | [Link](https://pubmed.ncbi.nlm.nih.gov/25804902/) | Se usa para conocer la prevalencia de hipertensión en adultos mayores de 60 años en Bogotá |
+| Cuenta de Alto Costo (CAC) | `docs/Costos_diabetes_e_hipertensión_Bogotá_población_adultos.pdf` | [Link](https://cuentadealtocosto.org/wp-content/uploads/2025/07/Valores-de-referencia-para-enfermedades-en-seguimiento-por-CAC.pdf) | Se usa para conocer la comorbilidad de hipertensión y diabetes, así como los costos de cada una por paciente/año |
+| Estudio Independiente | `README.md` | [Link](https://www.scielo.br/j/csc/a/SDKjttF3KFdwDDNw57sqWGk/?lang=en&ilang=en) | Se usa para conocer los costos aproximados de políticas públicas relacionadas al aumento de actividad física |
 # Hallazgos
 
 # Contratacion
