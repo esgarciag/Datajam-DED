@@ -51,6 +51,7 @@ Datajam-DED/
 │   ├── figuras_ejecucion/  Las seis figuras de la página de ejecución
 │   ├── tablas/             Tablas de apoyo del informe
 │   ├── powerbi/            Modelo en estrella listo para cargar
+│       └── TodoPowerBI.zip Se encuentra .pbix y los datos necesarios
 │   └── mapas/              Mapas de calor HTML
 │       ├── poblacion_adulta/
 │       └── poblacion_mayor/
