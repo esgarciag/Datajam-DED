@@ -63,7 +63,7 @@ Datajam-DED/
 │
 └── docs/
     └── diccionario_datos.md    Qué significa cada columna de data/processed/
-    └── Costos_diabetes_e_hipertensión_Bogotá_adultos_mayores.pdf    Análisis económico en la población mayor
+    └── Costos_diabetes_e_hipertensión_Bogotá_adultos_mayores.pdf    Análisis económico en la población mayor a 60 años
     └── Costos_diabetes_e_hipertensión_Bogotá_población_adulta.pdf    Análisis económico en la población adulta
 ```
 
@@ -261,7 +261,9 @@ SALUD
 |---|---|---|---|
 | National Institutes of Health | `docs/Costos_diabetes_e_hipertensión_Bogotá_adultos_mayores.pdf` | [Link](https://pubmed.ncbi.nlm.nih.gov/25804902/) | Se usa para conocer la prevalencia de hipertensión en adultos mayores de 60 años en Bogotá |
 | Cuenta de Alto Costo (CAC) | `docs/Costos_diabetes_e_hipertensión_Bogotá_población_adultos.pdf` | [Link](https://cuentadealtocosto.org/wp-content/uploads/2025/07/Valores-de-referencia-para-enfermedades-en-seguimiento-por-CAC.pdf) | Se usa para conocer la comorbilidad de hipertensión y diabetes, así como los costos de cada una por paciente/año |
-| Estudio Independiente | `README.md` | [Link](https://www.scielo.br/j/csc/a/SDKjttF3KFdwDDNw57sqWGk/?lang=en&ilang=en) | Se usa para conocer los costos aproximados de políticas públicas relacionadas al aumento de actividad física |
+| Estudio Independiente | `README.md` | [Link](https://www.scielo.br/j/csc/a/SDKjttF3KFdwDDNw57sqWGk/?lang=en&ilang=en) | Estudio hecho en Brasil, se usa para conocer los costos aproximados de políticas públicas relacionadas al aumento de actividad física, y el abandono de sus participantes |
+
+La mayor parte de estudios usados se dejan en la sección fuentes de los análisis económicos encontrados en la sección /docs del github.
 # Hallazgos
 
 # Contratacion
@@ -337,6 +339,108 @@ que la gente recibe corresponde al 64 % girado, y llega tarde.
 > comparables con los años cerrados y no se incluyen arriba.
 
 # Salud
+
+### Población Adulta General — Bogotá
+
+El costo actual del sistema de salud para atender hipertensión y diabetes en Bogotá asciende a **$5.521.170.800.065 COP anuales**. De este total, **$1.112.206.292.895 COP** son atribuibles directamente a la inactividad física.
+
+#### Costo por segmento (COP/año)
+
+| Segmento | Personas | Costo por persona/año | Costo total/año |
+|---|---|---|---|
+| Solo hipertensión (HTA) | 1.188.649 | $2.535.852 | $3.014.237.943.948 |
+| Solo diabetes (DM) | 252.499 | $3.251.406 | $820.976.763.594 |
+| Comórbido (HTA + DM) | 434.011 | $3.884.593 | $1.685.956.092.523 |
+| **Total** | **1.875.159** | | **$5.521.170.800.065** |
+
+#### Ahorro potencial sobre casos actuales (stock)
+
+| Escenario | Reducción sedentarismo | Ahorro anual (COP) |
+|---|---|---|
+| Realista | 8,5% | $94.536.326.522 |
+| Optimista moderado | 19% | $211.318.617.810 |
+| Muy optimista | 40% | $444.879.948.980 |
+
+#### Ahorro acumulado sobre casos nuevos a 5 años (COP)
+
+| Año | Realista | Optimista moderado | Muy optimista |
+|---|---|---|---|
+| 1 | $2.640.930.914 | $5.903.257.338 | $12.427.910.185 |
+| 2 | $7.922.792.743 | $17.709.772.014 | $37.283.730.555 |
+| 3 | $15.845.585.486 | $35.419.544.028 | $74.567.461.111 |
+| 4 | $26.409.309.143 | $59.032.573.379 | $124.279.101.851 |
+| 5 | $39.613.963.715 | $88.548.860.069 | $186.418.652.777 |
+
+---
+
+### Población Adulta Mayor (60+) — Bogotá
+
+La carga atribuible a la inactividad física en la población mayor de 60 años asciende a **$438.724.570.657 COP anuales**, correspondiente a 139.476 casos de HTA y DM directamente relacionados con el sedentarismo.
+
+#### Costo por segmento (COP/año)
+
+| Segmento | Personas | Costo por persona/año | Costo total/año |
+|---|---|---|---|
+| Solo hipertensión (HTA) | 526.591 | $2.535.852 | $1.335.356.840.532 |
+| Solo diabetes (DM) | 28.818 | $3.251.406 | $93.699.018.108 |
+| Comórbido (HTA + DM) | 192.274 | $3.884.593 | $746.906.234.482 |
+| **Total** | **747.683** | | **$2.175.962.093.122** |
+
+#### Ahorro potencial sobre casos actuales (stock) — 60+
+
+| Escenario | Reducción sedentarismo | Ahorro anual (COP) |
+|---|---|---|
+| Realista | 8,5% | $37.290.377.279 |
+| Optimista moderado | 19% | $83.356.559.548 |
+| Muy optimista | 40% | $175.492.175.492 |
+
+#### Ahorro acumulado sobre casos nuevos a 5 años — 60+ (COP)
+
+| Año | Realista | Optimista moderado | Muy optimista |
+|---|---|---|---|
+| 1 | $534.608.400 | $1.195.007.011 | $2.515.804.234 |
+| 2 | $1.603.825.199 | $3.585.021.034 | $7.547.412.703 |
+| 3 | $3.207.650.399 | $7.170.042.068 | $15.094.825.406 |
+| 4 | $5.346.083.998 | $11.950.070.113 | $25.158.042.343 |
+| 5 | $8.019.125.997 | $17.925.105.170 | $37.737.063.515 |
+
+#### Prevención de complicaciones cardiovasculares (IAM y ACV) — 60+
+
+| Escenario | IAM evitados/año | ACV evitados/año | Ahorro anual (COP) |
+|---|---|---|---|
+| Realista | 59 | 38 | $2.158.076.902 |
+| Optimista moderado | 133 | 85 | $4.823.936.605 |
+| Muy optimista | 279 | 179 | $10.155.656.010 |
+
+#### Ahorro acumulado complicaciones a 5 años (COP)
+
+| Año | Realista | Optimista moderado | Muy optimista |
+|---|---|---|---|
+| 1 | $2.158.076.902 | $4.823.936.605 | $10.155.656.010 |
+| 2 | $4.316.153.804 | $9.647.873.210 | $20.311.312.020 |
+| 3 | $6.474.230.706 | $14.471.809.815 | $30.466.968.030 |
+| 4 | $8.632.307.608 | $19.295.746.420 | $40.622.624.040 |
+| 5 | $10.790.384.510 | $24.119.683.025 | $50.778.280.050 |
+
+---
+
+### Análisis de Retorno — Escenario Realista, Población Mayor Bogotá
+
+Este análisis estima el retorno esperado de un programa de actividad física focalizado en la población mayor sedentaria de Bogotá bajo el escenario más conservador.
+
+| Parámetro | Valor |
+|---|---|
+| Población 60+ sedentaria Bogotá | 770.664 personas |
+| Reducción de exposición (realista) | 8,5% |
+| **Población objetivo** | **65.506 personas** |
+| Costo por persona/año* | $600.000 COP |
+| Costo total del programa/año | $39.303.600.000 COP |
+| Beneficio por casos prevenidos (año 1) | $534.613.128 COP |
+| Beneficio por complicaciones prevenidas (año 1) | $2.158.076.902 COP |
+| **Beneficio total año 1** | **$2.692.690.030 COP** |
+| **Beneficio por persona** | **$41.106 COP/persona** |
+
+> *Costo por persona ajustado por inflación a partir del estudio independiente disponible en la sección [Fuentes](#fuentes) del README.
 
 # Poblacion y Barrios
 
