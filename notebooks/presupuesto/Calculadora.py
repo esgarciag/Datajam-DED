@@ -543,7 +543,7 @@ class App(tk.Tk):
     # ------------------------------------------------------------------
     def cargar_preset_documento(self):
         
-        self.v_poblacion.set("38767")
+        self.v_poblacion.set("65506")
         self.v_adherencia_programa.set(48)
         self.lbl_adherencia.config(text="48%")
         self.v_modo_costo.set("persona_anual")
@@ -554,7 +554,7 @@ class App(tk.Tk):
         self.v_periodicidad.set("6")              # cada 6 meses
         self.v_piso_retencion.set("22")
         self.v_costo_mantenimiento.set("0")       # sin costo tras terminar el programa
-        self.v_beneficio_persona.set("69000")
+        self.v_beneficio_persona.set("41105")
         self.v_horizonte_anios.set("5")
         self.v_ipc_costo.set("6.0")
         self.v_ipc_beneficio.set("7.0")
