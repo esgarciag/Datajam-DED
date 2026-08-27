@@ -396,7 +396,7 @@ Visualizador general de contratos, oferta y metas del IDRD en Bogotá, cuando se
 Explicacion uso e insertar imagen
 Explicar la forma de modelar y 
 Explicar variables propuestas
-![Imagen Calculadora](ImagenesReadme/CalculadoraROI.jpeg)
+![Imagen Calculadora](ImagenesReadme/imagenCalculadora.png)
 Como nos dimos cuenta de que no tiene sentido alguno clases constantes si no mas bien clases esporadicas
 
 # Conclusiones y Recomendaciones
