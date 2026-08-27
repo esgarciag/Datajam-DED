@@ -1,7 +1,12 @@
 # Datajam-DED
 
 # Contexto 
-Datajam integrantes etc
+
+En el presente repositorio se encuentra el trabajo realizado para el concurso DATAJAM 2026 interuniversitario del equipo DED.
+Los integrantes del grupo son: 
+Diego Alejandro Arevalo Arias 
+Esteban Garcia Gaitan
+David Santiago Sanchez Torres 
 
 # Archivos Estructura e instrucciones de  funcionamiento
 
@@ -191,8 +196,13 @@ conda install -c conda-forge geopandas folium
 ```
 
 # Problema
+Actualmente, las iniciativas públicas de promoción de actividad física para personas adultas (18-59) y mayores (60+) presentan cuatro fallas estructurales: (1) no está claro que su focalización territorial responda a criterios de necesidad real (prevalencia de enfermedad, sedentarismo, envejecimiento poblacional) en vez de inercia histórica o visibilidad política (2) los contratos que sostienen estos programas se adjudica sistemáticamente tarde en el año (octubre-noviembre), reduciendo el tiempo real de operación y probablemente el cumplimiento de metas, (3) no existe un modelo que cuantifique el retorno de inversión de estos programas en términos de ahorro en el sistema de salud, lo que dificulta justificar, dimensionar o priorizar su expansión y (4) no existe una política enfocada en la prevención de estas enfermedades por medio de la actividad física.  
+
+
 
 # Pregunta
+
+¿Cuál es el retorno económico y en salud de un programa distrital de actividad física focalizado en personas mayores de 60 años en Bogotá, y qué criterios territoriales y presupuestales maximizan su impacto dado el envejecimiento poblacional proyectado? 
 
 # Metodologia
 Busqueda del problema y fuentes asociadas
@@ -320,7 +330,25 @@ que la gente recibe corresponde al 64 % girado, y llega tarde.
 
 # Poblacion y Barrios
 
-Luego de realizar un cruce entre los tres bases de datos principales suponiendo que las proporciones de actividad fisica por localidad se distribuyen uniformemente en los barrios, siguiendo la siguiente formula se observa que se debe priorizar los siguientes barrios para la poblacion adulta  la poblacion mayor
+Luego de realizar un cruce entre los tres bases de datos principales, (Datos Sisben, Encuesta Multipropósito - Actividad Física, Datos IDRD Localidad) suponiendo que las proporciones de actividad fisica por localidad se distribuyen uniformemente en los barrios se encuentran los 4 a priorizar junto con los costos aproximados y ROI esperados calculados usando la calculadora de ROI. 
+
+## Priorización de Barrios — Programa Personas Mayores
+
+| Barrio | Localidad | Población | Costo Proyecto | ROI Esperado |
+|---|---|---|---|---|
+| Tintalá | Kennedy | 5,143 | $308,580,000 | 63.16% |
+| Tibabuyes | Suba | 4,909 | $294,540,000 | 63.16% |
+| La Aurora | Usme | 2,500 | $150,000,000 | 63.16% |
+| Centro Usme Urbano | Usme | 2,341 | $140,460,000 | 63.16% |
+
+## Priorización de Barrios — Programa Adultos
+
+| Barrio | Localidad | Población | Costo Proyecto | ROI Esperado |
+|---|---|---|---|---|
+| Tintalá | Kennedy | 16,691 | $1,001,460,000 | 63.16% |
+| Campo Verde | Bosa | 15,092 | $905,520,000 | 63.16% |
+| Osorio III | Kennedy | 10,774 | $646,440,000 | 63.16% |
+| Galán | Kennedy | 10,670 | $640,200,000 | 63.16% |
 
 # Power BI
 Se desarrolló un visor en power BI para población adulta y población mayor, se tienen las siguientes páginas que se pueden intercambiar clickeando un botón, con su respectiva función (Las dos primeras páginas tienen versiones de acuerdo a si es población adulta o población adulto mayor.): 
@@ -363,13 +391,12 @@ Visualizador general de contratos, oferta y metas del IDRD en Bogotá, cuando se
 
 
 
-Insertar imgenes y explicaicon del doc
-
 # Calculadora
 
 Explicacion uso e insertar imagen
-Explicar la forma de modelar y como nos dimos cuenta de que no tiene sentido alguno clases constantes 
-
+Explicar la forma de modelar y 
+Explicar variables propuestas
 ![Imagen Calculadora](ImagenesReadme/CalculadoraROI.jpeg)
+Como nos dimos cuenta de que no tiene sentido alguno clases constantes si no mas bien clases esporadicas
 
-# Conclusiones
+# Conclusiones y Recomendaciones
