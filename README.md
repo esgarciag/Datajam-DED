@@ -35,6 +35,7 @@ Datajam-DED/
 │   │   ├── desempeno.py            Avance físico vs. financiero
 │   │   ├── viz.py                  Figuras del análisis
 │   │   ├── viz_ejecucion.py        Figuras de la página de ejecución
+│   │   ├── calculadora.py          Calculadora de retornos de inversión
 │   │   └── exportar_powerbi.py     Modelo en estrella para Power BI
 │   └── poblacion/          Población por barrio, mapas y priorización
 │       ├── mapa.py                                 Mapas de calor por barrio
