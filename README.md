@@ -353,7 +353,7 @@ El costo actual del sistema de salud para atender hipertensión y diabetes en Bo
 | Comórbido (HTA + DM) | 434.011 | $3.884.593 | $1.685.956.092.523 |
 | **Total** | **1.875.159** | | **$5.521.170.800.065** |
 
-#### Ahorro potencial sobre casos actuales (stock)
+#### Ahorro potencial sobre casos actuales 
 
 | Escenario | Reducción sedentarismo | Ahorro anual (COP) |
 |---|---|---|
@@ -365,17 +365,17 @@ El costo actual del sistema de salud para atender hipertensión y diabetes en Bo
 
 | Año | Realista | Optimista moderado | Muy optimista |
 |---|---|---|---|
-| 1 | $2.640.930.914 | $5.903.257.338 | $12.427.910.185 |
-| 2 | $7.922.792.743 | $17.709.772.014 | $37.283.730.555 |
-| 3 | $15.845.585.486 | $35.419.544.028 | $74.567.461.111 |
-| 4 | $26.409.309.143 | $59.032.573.379 | $124.279.101.851 |
-| 5 | $39.613.963.715 | $88.548.860.069 | $186.418.652.777 |
+| 1 | $2.640.912.075 | $5.903.215.227 | $12.427.821.529 |
+| 2 | $7.922.736.225 | $17.709.645.680 | $37.283.464.588 |
+| 3 | $15.845.472.450 | $35.419.291.359 | $74.566.929.177 |
+| 4 | $26.409.120.750 | $59.032.152.265 | $124.278.215.295 |
+| 5 | $39.613.681.125 | $88.548.228.398 | $186.417.322.942 |
 
 ---
 
 ### Población Adulta Mayor (60+) — Bogotá
 
-La carga atribuible a la inactividad física en la población mayor de 60 años asciende a **$438.724.570.657 COP anuales**, correspondiente a 139.476 casos de HTA y DM directamente relacionados con el sedentarismo.
+La carga actual del sistema de salud para atender hipertensión y diabetes en Bogotá a mayores de 60 años asciende a **$2.175.962.093.122 COP anuales**, de los cuales son atribuible a la inactividad física  **$438.724.570.657 COP anuales**, correspondiente a 139.476 casos de HTA y DM directamente relacionados con el sedentarismo.
 
 #### Costo por segmento (COP/año)
 
@@ -386,7 +386,7 @@ La carga atribuible a la inactividad física en la población mayor de 60 años 
 | Comórbido (HTA + DM) | 192.274 | $3.884.593 | $746.906.234.482 |
 | **Total** | **747.683** | | **$2.175.962.093.122** |
 
-#### Ahorro potencial sobre casos actuales (stock) — 60+
+#### Ahorro potencial sobre casos actuales — 60+
 
 | Escenario | Reducción sedentarismo | Ahorro anual (COP) |
 |---|---|---|
@@ -398,11 +398,11 @@ La carga atribuible a la inactividad física en la población mayor de 60 años 
 
 | Año | Realista | Optimista moderado | Muy optimista |
 |---|---|---|---|
-| 1 | $534.608.400 | $1.195.007.011 | $2.515.804.234 |
-| 2 | $1.603.825.199 | $3.585.021.034 | $7.547.412.703 |
-| 3 | $3.207.650.399 | $7.170.042.068 | $15.094.825.406 |
-| 4 | $5.346.083.998 | $11.950.070.113 | $25.158.042.343 |
-| 5 | $8.019.125.997 | $17.925.105.170 | $37.737.063.515 |
+| 1 | $534.613.128 | $1.195.017.579 | $2.515.826.483 |
+| 2 | $1.603.839.383 | $3.585.052.738 | $7.547.479.448 |
+| 3 | $3.207.678.765 | $7.170.105.475 | $15.094.958.896 |
+| 4 | $5.346.131.276 | $11.950.175.792 | $25.158.264.826 |
+| 5 | $8.019.196.913 | $17.925.263.689 | $37.737.397.239 |
 
 #### Prevención de complicaciones cardiovasculares (IAM y ACV) — 60+
 
@@ -417,10 +417,10 @@ La carga atribuible a la inactividad física en la población mayor de 60 años 
 | Año | Realista | Optimista moderado | Muy optimista |
 |---|---|---|---|
 | 1 | $2.158.076.902 | $4.823.936.605 | $10.155.656.010 |
-| 2 | $4.316.153.804 | $9.647.873.210 | $20.311.312.020 |
-| 3 | $6.474.230.706 | $14.471.809.815 | $30.466.968.030 |
-| 4 | $8.632.307.608 | $19.295.746.420 | $40.622.624.040 |
-| 5 | $10.790.384.510 | $24.119.683.025 | $50.778.280.050 |
+| 2 | $4.316.153.804 | $9.647.873.210 | $20.311.312.021 |
+| 3 | $6.474.230.707 | $14.471.809.815 | $30.466.968.031 |
+| 4 | $8.632.307.609 | $19.295.746.420 | $40.622.624.042 |
+| 5 | $10.790.384.511 | $24.119.683.025 | $50.778.280.052 |
 
 ---
 
@@ -434,14 +434,11 @@ Este análisis estima el retorno esperado de un programa de actividad física fo
 | Reducción de exposición (realista) | 8,5% |
 | **Población objetivo** | **65.506 personas** |
 | Costo por persona/año* | $600.000 COP |
-| Costo total del programa/año | $39.303.600.000 COP |
-| Beneficio por casos prevenidos (año 1) | $534.613.128 COP |
-| Beneficio por complicaciones prevenidas (año 1) | $2.158.076.902 COP |
-| **Beneficio total año 1** | **$2.692.690.030 COP** |
 | **Beneficio por persona** | **$41.106 COP/persona** |
 
-> *Costo por persona ajustado por inflación a partir del estudio independiente disponible en la sección [Fuentes](#fuentes) del README.
+> *Costo por persona ajustado por inflación a partir del estudio independiente disponible en la sección Fuentes del README.
 
+Es importante mencionar que el análisis fue muy conservador, se tomaron de los intervalos de confianza los rangos inferiores (prevalencia de hipertensión y diabetes) y debido a falta de datos enfocados en la población mayor a 60, se tomaron los datos que se usan para la población adulta (esto causa una infravaloración del retorno económico, ya que la inactividad física y el costo por enfermedad, es mayor en adultos mayores). 
 # Poblacion y Barrios
 
 Luego de realizar un cruce entre los tres bases de datos principales, (Datos Sisben, Encuesta Multipropósito - Actividad Física, Datos IDRD Localidad) suponiendo que las proporciones de actividad fisica por localidad se distribuyen uniformemente en los barrios se encuentran los 4 a priorizar junto con los costos aproximados y ROI esperados calculados usando la calculadora de ROI. 
