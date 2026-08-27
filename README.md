@@ -323,6 +323,44 @@ que la gente recibe corresponde al 64 % girado, y llega tarde.
 Luego de realizar un cruce entre los tres bases de datos principales suponiendo que las proporciones de actividad fisica por localidad se distribuyen uniformemente en los barrios, siguiendo la siguiente formula se observa que se debe priorizar los siguientes barrios para la poblacion adulta  la poblacion mayor
 
 # Power BI
+Se desarrolló un visor en power BI para población adulta y población mayor, se tienen las siguientes páginas que se pueden intercambiar clickeando un botón, con su respectiva función (Las dos primeras páginas tienen versiones de acuerdo a si es población adulta o población adulto mayor.): 
+
+
+
+Mapa de calor con las personas por barrio, mapa con índices de actividad física por localidad, listado de localidades con mayores personas y barrios con mayor número de personas. 
+
+![Imagen Power BI](ImagenesReadme/PoweBi1.0.jpeg)
+
+![Imagen Power BI](ImagenesReadme/PoweBi1.1.jpeg)
+
+
+
+
+Mapa de calor por barrios a priorizar teniendo en cuenta cruce de personas por barrios, índices de actividad física, presupuesto y oferta por localidad de deportes, se añade un lista de 20 barrios a priorizar, junto con cálculos de proyectos generados usando la calculadora de ROI que se encuentra en el github
+
+
+![Imagen Power BI](ImagenesReadme/PoweBi4.0.jpeg)
+
+![Imagen Power BI](ImagenesReadme/PoweBi4.1.jpeg)
+
+
+
+
+
+Pirámide poblacional de acuerdo al año, mapa de calor por UPL para población mayor, estimados de personas con diabetes, hipertensión y comorbilidad (hipertensión y diabetes). 
+
+
+
+![Imagen Power BI](ImagenesReadme/PoweBi2.0.jpeg)
+
+![Imagen Power BI](ImagenesReadme/PoweBi2.1.jpeg)
+
+
+
+Visualizador general de contratos, oferta y metas del IDRD en Bogotá, cuando se gira el dinero, cuando se contrata y estado actual de las metas.
+
+![Imagen Power BI](ImagenesReadme/PoweBi3.0.jpeg)
+
 
 
 Insertar imgenes y explicaicon del doc
@@ -331,4 +369,7 @@ Insertar imgenes y explicaicon del doc
 
 Explicacion uso e insertar imagen
 Explicar la forma de modelar y como nos dimos cuenta de que no tiene sentido alguno clases constantes 
+
+![Imagen Calculadora](ImagenesReadme/CalculadoraROI.jpeg)
+
 # Conclusiones
