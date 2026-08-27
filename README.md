@@ -188,8 +188,9 @@ Actualmente, las iniciativas públicas de promoción de actividad física para p
 ¿Cuál es el retorno económico y en salud de un programa distrital de actividad física focalizado en personas mayores de 60 años en Bogotá, y qué criterios territoriales y presupuestales maximizan su impacto dado el envejecimiento poblacional proyectado? 
 
 # Metodologia
-Busqueda del problema y fuentes asociadas
-Analisis 
+
+
+El trabajo siguió una secuencia de cuatro pasos encadenados. Primero, la delimitación del problema: se partió de una pregunta de política pública y a partir de ella se buscaron las fuentes, los proyectos de inversión del IDRD quedaron como unidad de análisis presupuestal. Segundo, la construcción de la base, integrando cuatro orígenes heterogéneos (Mapa de Inversiones, Datos Abiertos Bogotá, la oferta del IDRD por extracción manual y el visor del Sisbén mediante scrapping con Playwright) bajo una normalización territorial común que es lo que hace cruzables tablas que nunca fueron diseñadas para cruzarse. Tercero, el análisis en tres frentes paralelas: la calidad de la ejecución presupuestal, separando lo comprometido de lo girado y midiendo el mes de inicio de cada peso contratado y la concentración de giros en diciembre contra una referencia neutra; la demanda territorial, mediante un índice de prioridad por barrio que pondera sedentarismo, población, oferta per cápita y ejecución presupuestal per cápita y la valoración económica en salud, estimando la carga de hipertensión y diabetes con prevalencias de literatura revisada, valores de referencia de costo por paciente/año de la Cuenta de Alto Costo y una fracción atribuible a la inactividad física, tomando siempre el límite inferior de los intervalos de confianza para no sobreestimar el resultado. Cuarto, la modelación y la entrega: los tres frentes convergen en una calculadora de retorno que trata el programa como una intervención temporal con decaimiento de adherencia y piso de retención, con todos los flujos ajustados por inflación y traídos a valor presente, y en un visor de Power BI . Todo el proceso es reproducible de punta a punta de modo que cualquier persona pueda cambiar un parámetro y ver cómo se mueve la conclusión.
 
 
 
