@@ -145,25 +145,6 @@ todavía **no están versionados**, así que hay que generarlos primero.
 `mapa.py` no descarga nada: lee la geometría de barrios ya versionada en
 `data/processed/mapas/MapaPorBarriosBogota.json`.
 
-### 4. Notas para quien retome el proyecto
-
-Al reorganizar el repositorio se corrigieron tres errores que impedían ejecutar
-el código:
-
-1. Los dos `scrapper_sisben.py` usaban `CARPETA_DESCARGAS`, una variable que
-   nunca se definía, y cualquier descarga del grid moría con `NameError`.
-2. `scrappers/adultos/scrapper_sisben.py` armaba la tabla final con la columna
-   de valor repetida en vez de `total_personas_adultas_raw`, que es la que
-   `mapa.py` exige. El mapa de población adulta no se podía generar.
-3. `poblacion_vs_presupuesto_localidad.py` buscaba `PoblacionAdultaBarrio.csv` y
-   `PoblacionMayorBarrio.csv`, nombres que ningún script produce.
-
-`viz.py` genera catorce figuras, pero cinco dependen de módulos que todavía no
-están en el repositorio (`riesgo`, `cruce`, `oferta`, `equidad`,
-`scrape_60mas`). Cuando falta el CSV de entrada, la figura se salta con un aviso
-y el script sigue. Tres de esos CSV sí están versionados en
-`data/processed/presupuesto/`, así que esas figuras salen igual; las que
-dependen de `matriz_equidad.csv` y `brecha_catalogo_60mas.csv` no.
 
 # Librerias usadas forma de instalar
 
