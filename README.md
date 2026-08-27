@@ -391,13 +391,16 @@ Visualizador general de contratos, oferta y metas del IDRD en Bogotá, cuando se
 
 
 
-# Calculadora
+# Calculadora de Inversión
 
-Explicacion uso e insertar imagen
-Explicar la forma de modelar y 
-Explicar variables propuestas
+La calculadora modela el programa de actividad física como una intervención temporal en dos fases: mientras se financia (Fase 1), una fracción de la población objetivo (adherencia) hace ejercicio de forma supervisada durante un número fijo de meses, al terminar (Fase 2), el costo operativo cesa (o baja a un costo de mantenimiento opcional) y la población activa decae con el tiempo mediante una función exponencial por periodos, hasta estabilizarse en un piso de retención que representa a quienes adoptaron el ejercicio como hábito permanente. El beneficio en salud se contabiliza cada mes en proporción a cuánta gente sigue activa, sin importar si el programa la sigue pagando, lo que permite evaluar si el "efecto multiplicador" del hábito hace rentable una intervención que, vista solo en su primer año, no lo sería.
+
+Todos los flujos de costo y beneficio se ajustan por inflación año a año y luego se traen a valor presente con una tasa de descuento, de modo que las métricas de decisión (ROI, razón beneficio/costo y periodo de recuperación) reflejan pesos de hoy y no cifras nominales infladas artificialmente por horizontes largos. La herramienta expone además un supuesto crítico de forma explícita: si el costo de mantenimiento tras el programa se deja en $0, el modelo asume que sostener el hábito no le cuesta nada a la entidad, que es la principal razón por la que el "efecto hábito" resulta rentable, por eso la interfaz recomienda probar valores mayores a cero antes de usar el resultado como argumento de política pública.
+
 ![Imagen Calculadora](ImagenesReadme/imagenCalculadora.png)
-Como nos dimos cuenta de que no tiene sentido alguno clases constantes si no mas bien clases esporadicas
+
+Al experimentar con la calculadora identificamos que la rentabilidad del programa no depende de mantenerlo activo indefinidamente, sino de dos decisiones de diseño: priorizar a las poblaciones con mayor probabilidad de beneficiarse del ejercicio, y limitar el programa a una duración determinada enfocada en instalar el hábito, en lugar de sostener el subsidio de forma permanente. Bajo este enfoque, aunque una parte de los participantes abandone el ejercicio una vez termina la financiación, el piso de retención logra que suficiente población conserve el hábito por su cuenta, generando beneficios en salud que continúan acumulándose sin que el IDRD siga pagando por ellos. Esto convierte al programa en una inversión rentable no porque mantenga a todos activos para siempre, sino porque, incluso con deserción, el hábito que perdura es suficiente para que el beneficio de largo plazo supere ampliamente el costo concentrado en el tiempo en que el programa realmente operó.
+
 
 # Conclusiones y Recomendaciones
 
