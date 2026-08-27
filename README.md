@@ -497,10 +497,26 @@ Al experimentar con la calculadora identificamos que la rentabilidad del program
 
 # Conclusiones y Recomendaciones
 
-Decir la importancia de tomar medidas para prevenir problemas y costos futuro
-Decir sobre contratacion como se deja siempre para fin de año pareciera que no se le da la importancia requerida las metas no se cumples etc
-La importancia de analizar los datos correctamente para saber donde priorizar y saber donde se necesita más
+**Conclusiones:**
 
-Importancia de datos abiertos para poder hacer ejercicios como estos 
+La magnitud de la carga económica atribuible al sedentarismo en Bogotá es una señal de alerta que el sistema de salud no puede ignorar, más de $438.000 millones anuales en costos de hipertensión y diabetes en mayores de 60 años, más de 6.000 hospitalizaciones anuales por infarto y ACV en ese grupo etario, y una tendencia que se agravará con el envejecimiento poblacional proyectado para la próxima década. Actuar hoy es exponencialmente más barato que tratar las consecuencias mañana, cada infarto evitado representa $23 millones que el sistema no tiene que pagar.
 
-Modelo del programa que funciona mejor con la calculadora que barrios priorizar exactamente
+El análisis de datos demuestra que no todos los barrios ni todas las localidades tienen la misma necesidad ni el mismo potencial de impacto. La combinación de alta concentración de población mayor, elevado sedentarismo y baja cobertura actual del programa identifica zonas específicas (como Tintala en Kennedy, Campo Verde en Bosa y Osorio III en Kennedy) donde la misma inversión genera un retorno en salud significativamente mayor que en zonas ya bien cubiertas. Sin un análisis territorial como este, el presupuesto se distribuye por inercia histórica y no por necesidad real.
+
+Finalmente, este ejercicio no habría sido posible sin datos abiertos. La disponibilidad de registros RIPS, proyecciones poblacionales del DANE y datos de actividad física de la Encuesta Multipropósito permitió construir un modelo económico robusto y verificable. Al mismo tiempo, las brechas encontradas muestran que aún hay un camino importante por recorrer para que los datos abiertos sean verdaderamente útiles para el análisis de política pública.
+
+La contratación de estos programas se concentra en el último trimestre del año, una práctica que comparte toda la administración distrital. Importa porque la actividad física solo produce beneficios en salud cuando es sostenida: un programa que arranca en noviembre entrega un ciclo corto, partido entre dos vigencias, y difícilmente alcanza a generar el hábito del que depende su propio efecto. Lo que se contrata tarde se ejecuta tarde, y lo que se ejecuta a medias no se convierte en salud.
+
+---
+
+**Recomendaciones:**
+
+Anticipar los procesos de contratación al primer trimestre del año, garantizando al menos nueve meses continuos de operación por vigencia. Esta es la recomendación de menor costo y mayor impacto inmediato: no requiere presupuesto adicional, solo voluntad de gestión. Un programa que opera nueve meses genera tres veces más beneficio acumulado que uno que opera tres.
+
+Adoptar la calculadora de retorno desarrollada en este proyecto como herramienta estándar para la planificación del programa. La calculadora permite estimar, para cualquier combinación de cobertura y costo por persona, el ahorro esperado en costos de hospitalización y prevencion de casos nuevos, ofreciendo a alcaldías locales, IDRD y EPS un lenguaje común para negociar la expansión y el co-financiamiento del programa.
+
+Focalizar la expansión en los barrios identificados por el priorizador territorial: Tintala en Kennedy, Campo Verde en Bosa y Osorio III en Kennedy concentran simultáneamente alta proporción de mayores de 60 años, altos niveles de sedentarismo y baja cobertura actual. Intervenir ahí primero maximiza el impacto por peso invertido.
+
+Explorar un mecanismo formal de co-financiación entre el IDRD y las EPS con mayor presencia en las localidades priorizadas. 
+
+Publicar en el Portal de Datos Abiertos de Bogotá los datos operativos del programa de actividad física, condición de los contratos y estad[isticas de prevalencia y costos de enfermedades. Estos datos son los que más falta hacen para perfeccionar el modelo y para que ejercicios como este puedan hacerse con mayor precisión en el futuro.
