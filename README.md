@@ -277,7 +277,7 @@ agrava ahí. Comparando el mismo indicador contra dos líneas de referencia:
 | IDRD completo | 37,6 % | 35,7 % |
 | Todo el Distrito | 31,3 % | 15,8 % |
 
-El Distrito en conjunto mejoró fuerte de 2024 a 2025 (31,3 % → 15,8 %); el IDRD
+El Distrito en conjunto mejoró fuerte de 2024 a 2025 (31,3 % → 15,8 %), el IDRD
 se quedó donde estaba.
 
 ## Y sobra plata
@@ -313,7 +313,7 @@ el pico de diciembre del IDRD (9,8 % y 12,4 %, cerca de lo neutro).
 Los dos hechos son el mismo problema visto en dos momentos. Si el contrato se
 firma en noviembre, el giro no alcanza a ocurrir dentro del año: aparece como
 compromiso ejecutado en el papel y como caja sin salir en la práctica. El
-indicador que la entidad reporta —96 % comprometido— se ve bien; el servicio
+indicador que la entidad reporta 96 % comprometido, se ve bien, sin embargo el servicio
 que la gente recibe corresponde al 64 % girado, y llega tarde.
 
 > Nota de lectura: 2026 va con corte a mayo, así que sus porcentajes no son
